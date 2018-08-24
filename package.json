@@ -1,0 +1,27 @@
+{
+  "name": "dialogflow-nodejs",
+  "version": "1.0.0",
+  "description": "Extend DialogFlow with webhooks: Simple Clock app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnil-webonise/dialogflow-nodejs.git"
+  },
+  "keywords": [
+    "DialogFlow",
+    "Nodejs"
+  ],
+  "author": "Swapnil Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnil-webonise/dialogflow-nodejs/issues"
+  },
+  "homepage": "https://github.com/swapnil-webonise/dialogflow-nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
